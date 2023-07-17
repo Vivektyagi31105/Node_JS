@@ -1,0 +1,11 @@
+{
+  "name": "Assignment-4",
+  "version": "1.0.0",
+  "description": "This is the project-4 for the assignment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vivek",
+  "license": "ISC"
+}
